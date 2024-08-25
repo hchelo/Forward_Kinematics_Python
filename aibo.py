@@ -54,7 +54,7 @@ x = M_simplified[0]  # Cambiar de notación de paréntesis a corchetes
 y = M_simplified[1]
 z = M_simplified[2]
 
-# Mostrar valores de x, y, z
+# Mostrar valores SIMBOLICOS de x, y, z
 print("x:", x)
 print("y:", y)
 print("z:", z)
